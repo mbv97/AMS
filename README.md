@@ -1,1 +1,1 @@
-# AMS
+# Introduction to Computational Science 
